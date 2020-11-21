@@ -1,8 +1,9 @@
 {
-  "homepage": "https://https://Mathieu94110.github.io/my_Pokedex",
+  
   "name": "final_pokedex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Mathieu94110.github.io/my_Pokedex",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -24,6 +25,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu94110/my_Pokedex.git"
   },
   "eslintConfig": {
     "extends": "react-app"
